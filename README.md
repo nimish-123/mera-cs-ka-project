@@ -1,2 +1,2 @@
 # mera-cs-ka-project
-a menu driven chaat snack shop using python as well as mysql
+a kabhi kabhi lagta hai apunich bhagwaan hai
